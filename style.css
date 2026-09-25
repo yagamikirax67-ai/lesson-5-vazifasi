@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: aqua;
+}
+
+.web-site {
+    width: 100%;
+    min-height: 100vh;
+    font-family: Arial, sans-serif;
+    line-height: 1.5;
+    color: #0b21c5;
+    background-color: #0ece2b;
+}
