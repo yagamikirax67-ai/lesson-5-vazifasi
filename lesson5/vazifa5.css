@@ -1,0 +1,184 @@
+
+
+    
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: Arial, sans-serif;
+            background-color: white;
+        }
+
+        table {
+            border-collapse: collapse;
+        }
+
+        .asosiy {
+            width: 90%;
+            margin: 10px auto;
+            border: 3px solid blue;
+        }
+
+        td, th {
+            border: 3px solid blue;
+        }
+
+    
+
+        .header {
+            height: 75px;
+            background-color: #1633c5;
+        }
+
+        .logo {
+            width: 100px;
+            text-align: center;
+        }
+
+        .logo img {
+            width: 50px;
+            height: 50px;
+            border-radius: 50%;
+            border: 3px solid blue;
+        }
+
+        .nom {
+            color: red;
+            font-size: 28px;
+            text-align: right;
+            padding-right: 30px;
+        }
+
+
+    
+
+        .chap {
+            width: 28%;
+            height: 360px;
+            background-color: pink;
+            text-align: center;
+            vertical-align: top;
+            padding: 20px;
+            color: #20aa55;
+        }
+
+        .chap h2 {
+            margin: 10px;
+        }
+
+        .profil-rasm {
+            width: 165px;
+            height: 160px;
+            object-fit: cover;
+            border: 4px solid #20aa55;
+            border-radius: 15px;
+        }
+
+        .admin {
+            font-size: 22px;
+            margin-top: 10px;
+        }
+
+
+
+
+        .galereya {
+            background-color: pink;
+            text-align: center;
+            vertical-align: top;
+            padding: 15px;
+        }
+
+        .galereya h2 {
+            color: #3156aa;
+            font-size: 28px;
+            margin-bottom: 15px;
+        }
+
+        .rasmlar {
+            width: 100%;
+        }
+
+        .rasm {
+            width: 33%;
+            height: 100px;
+            background-color: white;
+            border: 4px solid #3156aa;
+            border-radius: 15px;
+            padding: 5px;
+        }
+
+        .rasm img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            border-radius: 10px;
+        }
+
+
+        
+
+        .audio {
+            width: 48%;
+            height: 40px;
+            background-color: white;
+            border: 3px solid #3156aa;
+            border-radius: 15px;
+            padding: 3px;
+        }
+
+        .audio audio {
+            width: 100%;
+            height: 30px;
+        }
+
+
+        
+
+        .video {
+            width: 350px;
+            height: 190px;
+            border: 4px solid #3156aa;
+            background-color: white;
+        }
+
+        .video video {
+            width: 100%;
+            height: 100%;
+        }
+
+
+
+        .footer {
+            height: 65px;
+            background-color: #aaff00;
+            color: red;
+            font-weight: bold;
+            font-size: 17px;
+        }
+
+        .footer td {
+            padding: 10px;
+        }
+
+        .yil {
+            width: 20%;
+            text-align: left;
+            padding-left: 25px;
+        }
+
+        .huquq {
+            width: 55%;
+            text-align: center;
+        }
+
+        .yaratuvchi {
+            width: 25%;
+
+            text-align: right;
+            padding-right: 25px !important;
+        }
+   
